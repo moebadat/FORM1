@@ -1,0 +1,29 @@
+body{background-color:gray ;}
+
+#myForm{
+    background-color: white;
+    padding: 10px;
+    max-width: 500px;
+    border-style: solid;
+    border-color: black;
+}
+header{
+    color: white;
+    border-style: solid;
+    background-color: black;
+    max-width: 520px;
+    border-color: black;
+}
+#email{
+    margin-left: 28px;
+}
+
+button{background-color: blueviolet;
+   padding: 5px;
+   margin-right: 20px;
+   margin-bottom: 20px;
+
+}
+.btn-right{
+    text-align: right;
+}
